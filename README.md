@@ -23,7 +23,7 @@
   </a>
 </p>
 
-## Introduction
+## New introduction
 
 EverShop is a GraphQL Based and React ecommerce platform with essential commerce features. Built with React, modular and fully customizable.
 
